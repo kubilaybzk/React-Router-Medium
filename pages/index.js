@@ -31,6 +31,9 @@ export default function Home() {
             <Link href="/text" className={styles.card}>
               <h2>TEXTLER İÇİN TIKLAYIN 2 &rarr;</h2>
             </Link>
+            <Link href="/post" className={styles.card}>
+              <h2>ROUTER İŞLEMLERİ İÇİN  TIKLAYIN &rarr;</h2>
+            </Link>
           </div>
         </div>
       </main>
